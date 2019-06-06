@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chrisperez626/Note-chrome-extension/issues"
   },
-  "homepage": "https://github.com/chrisperez626/Note-chrome-extension#readme"
+  "homepage": "https://github.com/chrisperez626/Note-chrome-extension#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
 }
