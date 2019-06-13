@@ -1,4 +1,7 @@
 let greenButton = document.getElementById('enterButton');
+let xhr = new XMLHttpRequest();
+
+
 
   // chrome.storage.sync.get('color', function(data) {
   //   changeColor.style.backgroundColor = data.color;

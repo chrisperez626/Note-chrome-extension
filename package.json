@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chrisperez626/Note-chrome-extension#readme",
   "dependencies": {
+    "dotenv": "^8.0.0",
     "googleapis": "^39.2.0"
   }
 }
